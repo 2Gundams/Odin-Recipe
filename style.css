@@ -1,0 +1,34 @@
+.all {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    background-color: #0000ff80;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+#homepage {
+    text-align: right;
+}
+
+#image {
+    text-align: center;
+}
+
+.titles {
+    font-size: 24px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+li {
+    font-size: 18px;
+}
+
+.subtext {
+    font-size: 18px;
+}
